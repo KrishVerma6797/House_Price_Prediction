@@ -30,6 +30,7 @@
 - parking
 
 #### Categorical Features
+```
 - mainroad (yes / no)
 - guestroom (yes / no)
 - basement (yes / no)
@@ -37,7 +38,7 @@
 - airconditioning (yes / no)
 - prefarea (yes / no)
 - furnishingstatus (furnished / semi-furnished / unfurnished)
-
+```
 - Although the dataset does not contain missing values, a robust preprocessing pipeline with imputation was implemented to make the system suitable for real-world data.
 
 ---
