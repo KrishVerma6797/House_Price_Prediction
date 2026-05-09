@@ -58,32 +58,8 @@
 ### Model Used
 - Linear Regression
 
-#### Why Linear Regression?
-- Simple and interpretable
-- Provides a strong baseline for regression
-- Easy to explain during interviews
-
 ---
 
-### Model Evaluation
-- Since house price prediction is a regression problem, classification accuracy was not used
-
-#### Evaluation Metrics
-- MAE (Mean Absolute Error) – primary metric
-- RMSE (Root Mean Squared Error) – secondary metric
-
-- MAE represents the average error in predicted house prices, expressed in the same unit as the target (currency)
-
----
-
-## Key Learnings
-- Accuracy is not suitable for regression problems
-- Proper preprocessing is critical for machine learning models
-- Linear Regression provides a strong and interpretable baseline
-- MAE is the most intuitive metric for evaluating regression models
-- Pipelines prevent data leakage and preprocessing mismatch
-
----
 
 ## How to Run the Project
 
