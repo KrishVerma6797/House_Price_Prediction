@@ -71,25 +71,6 @@ Run the project
 ```
 python main1.py
 ```
-Sample Input
-```
-Enter area (sqft): 2500
-Enter bedrooms: 3
-Enter bathrooms: 2
-Enter stories: 2
-Enter parking spaces: 1
-Main road (yes/no): yes
-Guest room (yes/no): no
-Basement (yes/no): yes
-Hot water heating (yes/no): no
-Air conditioning (yes/no): yes
-Preferred area (yes/no): yes
-Furnishing (furnished/semi-furnished/unfurnished): semi-furnished
-```
-Output
-```
-Predicted House Price: ₹47,00,000
-```
 --- 
 
 ## Tech Stack
